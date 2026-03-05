@@ -1,5 +1,5 @@
 body {
-    background-color: #ffaaff;
+    background-color: #f08913;
     color: whitesmoke;
 }
 
@@ -11,12 +11,16 @@ img{
 p{
     font-family:Arial, Helvetica, sans-serif;
 font-size: 0.9em;
-
+font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800;
 }
+
+
 
 .subparrafo{
     font-size:1.2em;
-    color: magenta;
+    color: rgb(0, 0, 0);
 }
 
 final{
